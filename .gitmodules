@@ -1,4 +1,4 @@
 [submodule "cc13xx_cc26xx_sdk"]
 	path = cc13xx_cc26xx_sdk
-	url = https://github.com/TexasInstruments/cc13xx_cc26xx_sdk.git
+	url = https://github.com/Koenkk/simplelink-lowpower-f2-sdk.git
 	branch = main
