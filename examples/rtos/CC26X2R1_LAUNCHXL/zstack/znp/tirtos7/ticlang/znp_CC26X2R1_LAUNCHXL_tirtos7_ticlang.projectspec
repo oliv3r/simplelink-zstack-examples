@@ -342,6 +342,8 @@
         </file>
         <file path="${COM_TI_SIMPLELINK_CC13XX_CC26XX_SDK_INSTALL_DIR}/source/ti/zstack/stack/nwk/nwk_globals.h" openOnCreation="false" excludeFromBuild="false" action="link" targetDirectory="Stack/nwk">
         </file>
+        <file path="${COM_TI_SIMPLELINK_CC13XX_CC26XX_SDK_INSTALL_DIR}/source/ti/zstack/stack/nwk/nwk_util.c" openOnCreation="false" excludeFromBuild="false" action="link" targetDirectory="Stack/nwk">
+        </file>
         <file path="${COM_TI_SIMPLELINK_CC13XX_CC26XX_SDK_INSTALL_DIR}/source/ti/zstack/stack/nwk/nwk_util.h" openOnCreation="false" excludeFromBuild="false" action="link" targetDirectory="Stack/nwk">
         </file>
         <file path="${COM_TI_SIMPLELINK_CC13XX_CC26XX_SDK_INSTALL_DIR}/source/ti/zstack/stack/nwk/reflecttrack.h" openOnCreation="false" excludeFromBuild="false" action="link" targetDirectory="Stack/nwk">
